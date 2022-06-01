@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "consolecalc": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Windows\\System32\\cmd.exe"
+    }
+  }
+}
