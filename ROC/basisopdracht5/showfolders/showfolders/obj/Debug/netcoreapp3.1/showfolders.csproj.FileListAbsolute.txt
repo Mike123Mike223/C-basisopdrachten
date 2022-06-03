@@ -1,0 +1,12 @@
+C:\ROC\basisopdracht5\showfolders\showfolders\bin\Debug\netcoreapp3.1\showfolders.exe
+C:\ROC\basisopdracht5\showfolders\showfolders\bin\Debug\netcoreapp3.1\showfolders.deps.json
+C:\ROC\basisopdracht5\showfolders\showfolders\bin\Debug\netcoreapp3.1\showfolders.runtimeconfig.json
+C:\ROC\basisopdracht5\showfolders\showfolders\bin\Debug\netcoreapp3.1\showfolders.runtimeconfig.dev.json
+C:\ROC\basisopdracht5\showfolders\showfolders\bin\Debug\netcoreapp3.1\showfolders.dll
+C:\ROC\basisopdracht5\showfolders\showfolders\bin\Debug\netcoreapp3.1\showfolders.pdb
+C:\ROC\basisopdracht5\showfolders\showfolders\obj\Debug\netcoreapp3.1\showfolders.AssemblyInfoInputs.cache
+C:\ROC\basisopdracht5\showfolders\showfolders\obj\Debug\netcoreapp3.1\showfolders.AssemblyInfo.cs
+C:\ROC\basisopdracht5\showfolders\showfolders\obj\Debug\netcoreapp3.1\showfolders.csproj.CoreCompileInputs.cache
+C:\ROC\basisopdracht5\showfolders\showfolders\obj\Debug\netcoreapp3.1\showfolders.dll
+C:\ROC\basisopdracht5\showfolders\showfolders\obj\Debug\netcoreapp3.1\showfolders.pdb
+C:\ROC\basisopdracht5\showfolders\showfolders\obj\Debug\netcoreapp3.1\showfolders.genruntimeconfig.cache

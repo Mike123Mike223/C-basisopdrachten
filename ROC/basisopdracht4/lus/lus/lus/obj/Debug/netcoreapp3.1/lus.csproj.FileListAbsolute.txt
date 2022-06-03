@@ -1,0 +1,13 @@
+C:\ROC\basisopdracht4\lus\lus\lus\bin\Debug\netcoreapp3.1\lus.exe
+C:\ROC\basisopdracht4\lus\lus\lus\bin\Debug\netcoreapp3.1\lus.deps.json
+C:\ROC\basisopdracht4\lus\lus\lus\bin\Debug\netcoreapp3.1\lus.runtimeconfig.json
+C:\ROC\basisopdracht4\lus\lus\lus\bin\Debug\netcoreapp3.1\lus.runtimeconfig.dev.json
+C:\ROC\basisopdracht4\lus\lus\lus\bin\Debug\netcoreapp3.1\lus.dll
+C:\ROC\basisopdracht4\lus\lus\lus\bin\Debug\netcoreapp3.1\lus.pdb
+C:\ROC\basisopdracht4\lus\lus\lus\obj\Debug\netcoreapp3.1\lus.csproj.AssemblyReference.cache
+C:\ROC\basisopdracht4\lus\lus\lus\obj\Debug\netcoreapp3.1\lus.AssemblyInfoInputs.cache
+C:\ROC\basisopdracht4\lus\lus\lus\obj\Debug\netcoreapp3.1\lus.AssemblyInfo.cs
+C:\ROC\basisopdracht4\lus\lus\lus\obj\Debug\netcoreapp3.1\lus.csproj.CoreCompileInputs.cache
+C:\ROC\basisopdracht4\lus\lus\lus\obj\Debug\netcoreapp3.1\lus.dll
+C:\ROC\basisopdracht4\lus\lus\lus\obj\Debug\netcoreapp3.1\lus.pdb
+C:\ROC\basisopdracht4\lus\lus\lus\obj\Debug\netcoreapp3.1\lus.genruntimeconfig.cache

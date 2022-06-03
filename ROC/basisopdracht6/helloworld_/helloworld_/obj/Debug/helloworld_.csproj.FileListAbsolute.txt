@@ -1,0 +1,15 @@
+C:\ROC\basisopdracht6\helloworld_\helloworld_\bin\Debug\helloworld_.exe.config
+C:\ROC\basisopdracht6\helloworld_\helloworld_\bin\Debug\helloworld_.exe
+C:\ROC\basisopdracht6\helloworld_\helloworld_\bin\Debug\helloworld_.pdb
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld_.csproj.AssemblyReference.cache
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\MainWindow.g.cs
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\App.g.cs
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld__MarkupCompile.cache
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld__MarkupCompile.lref
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\MainWindow.baml
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld_.g.resources
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld_.Properties.Resources.resources
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld_.csproj.GenerateResource.cache
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld_.csproj.CoreCompileInputs.cache
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld_.exe
+C:\ROC\basisopdracht6\helloworld_\helloworld_\obj\Debug\helloworld_.pdb
