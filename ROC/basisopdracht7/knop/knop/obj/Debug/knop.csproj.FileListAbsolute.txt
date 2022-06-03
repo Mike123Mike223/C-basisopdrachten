@@ -1,0 +1,14 @@
+C:\ROC\basisopdracht7\knop\knop\bin\Debug\knop.exe.config
+C:\ROC\basisopdracht7\knop\knop\bin\Debug\knop.exe
+C:\ROC\basisopdracht7\knop\knop\bin\Debug\knop.pdb
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\MainWindow.g.cs
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\App.g.cs
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\knop_MarkupCompile.cache
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\knop_MarkupCompile.lref
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\MainWindow.baml
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\knop.g.resources
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\knop.Properties.Resources.resources
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\knop.csproj.GenerateResource.cache
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\knop.csproj.CoreCompileInputs.cache
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\knop.exe
+C:\ROC\basisopdracht7\knop\knop\obj\Debug\knop.pdb
